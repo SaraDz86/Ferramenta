@@ -1,5 +1,3 @@
-﻿using System.Collections.Generic;
-using System.Linq;
 using Ferramenta.Models;
 
 var builder = WebApplication.CreateBuilder(args);
